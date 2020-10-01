@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(#99e60b,#c5ff58c7,#d8ff91b9);
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  padding: 1%;
+}
